@@ -1,0 +1,13 @@
+package com.br.pessoa;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjetoPessoaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProjetoPessoaApplication.class, args);
+	}
+
+}
